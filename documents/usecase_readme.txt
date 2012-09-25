@@ -32,6 +32,7 @@ Use cases:
 
 Dictionary:
 => Epic
+=> Story
 => Sprint Planning Meeting
 => Product Backlog
 => Release
